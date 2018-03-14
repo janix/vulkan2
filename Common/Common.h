@@ -1,4 +1,4 @@
-#define VK_NO_PROTOTYPES
+#pragma once
 
 #include "vulkan/vulkan.h"
 #include <iostream>
