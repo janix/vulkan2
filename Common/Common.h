@@ -1,6 +1,6 @@
 #define VK_NO_PROTOTYPES
 
-#include "vulkan\vulkan.h"
+#include "vulkan/vulkan.h"
 #include <iostream>
 
 #ifdef _WIN32
